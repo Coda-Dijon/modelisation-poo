@@ -1,0 +1,54 @@
+=== 1. Création du cinéma CinéCoda ===
+Salle 1 : 100 places, projecteur numérique
+Salle 2 : 3 places, projecteur argentique
+Salles libres : Salle 1, Salle 2
+
+=== 2. Films et supports ===
+Dune 3 (166 min) : fichier numérique, clé valable jusqu'au 30/10/2026
+Avengers: Doomsday (119 min) : fichier numérique, clé valable jusqu'au 14/10/2026
+I Play Rocky (103 min) : copie 35 mm, 49 projections
+
+=== 3. Dune 3 en Salle 1 le 15/10/2026 (tarif de base 10,00 €) ===
+Billet plein tarif vendu : 10,00 €
+Billet plein tarif vendu : 10,00 €
+Billet étudiant vendu : 7,50 €
+Billet enfant vendu : 5,00 €
+Places restantes : 96
+Taux de remplissage : 4 %
+Recette : 32,50 €
+
+=== 4. Avengers: Doomsday en Salle 1 le 15/10/2026 (tarif de base 10,00 €) ===
+Démarrage refusé : la clé de lecture de « Avengers: Doomsday » a expiré le 14/10/2026
+
+=== 5. I Play Rocky en Salle 1 le 15/10/2026 (tarif de base 10,00 €) ===
+Démarrage refusé : une copie 35 mm ne peut pas être lue par un projecteur numérique
+État de la Salle 1 : LIBRE
+
+=== 6. I Play Rocky en Salle 2 le 15/10/2026 (tarif de base 8,00 €) ===
+Billet étudiant vendu : 6,00 €
+Billet étudiant vendu : 6,00 €
+Billet étudiant vendu : 6,00 €
+Vente refusée : la séance est complète (3 places)
+Places restantes : 0
+Taux de remplissage : 100 %
+Séance démarrée
+Séance terminée
+État de la Salle 2 : NETTOYAGE
+Salles libres : Salle 1
+Projections de la copie de « I Play Rocky » : 50
+
+=== 7. I Play Rocky en Salle 2 le 15/10/2026 (tarif de base 8,00 €) ===
+Démarrage refusé : la Salle 2 n'est pas libre (état : NETTOYAGE)
+Nettoyage de la Salle 2 terminé
+Démarrage refusé : la copie 35 mm de « I Play Rocky » est usée (50 projections)
+
+=== 8. Programmation en Salle 3 ===
+Programmation refusée : le cinéma CinéCoda n'a pas de salle 3
+
+=== 9. Bilan du 15/10/2026 ===
+Dune 3, Salle 1 : 4 billet(s), recette 32,50 €
+Avengers: Doomsday, Salle 1 : 0 billet(s), recette 0,00 €
+I Play Rocky, Salle 1 : 0 billet(s), recette 0,00 €
+I Play Rocky, Salle 2 : 3 billet(s), recette 18,00 €
+I Play Rocky, Salle 2 : 0 billet(s), recette 0,00 €
+Recette du jour : 50,50 €

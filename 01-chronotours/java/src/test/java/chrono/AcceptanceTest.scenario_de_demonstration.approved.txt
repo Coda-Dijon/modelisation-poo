@@ -1,0 +1,25 @@
+=== 1. Arrivée à l'agence ChronoTours ===
+Marty : en 2026, 100 chronitons
+Doc : en 2026, 200 chronitons
+
+=== 2. Devis pour Marty, de 2026 à 1955 ===
+Cabine : 71 chronitons
+DeLorean : 30 chronitons
+Portail : 142 chronitons
+
+=== 3. Les sauts de Marty ===
+Marty saute en 1955 (DeLorean) : 30 chronitons, reste 70
+Saut refusé : Marty est déjà passé en 1955, il risque de se croiser
+Saut refusé : le voyage dans le temps n'est inventé qu'en 1885
+Saut refusé : Marty n'a que 70 chronitons, il en faut 71
+Marty saute en 2026 (DeLorean) : 30 chronitons, reste 40
+
+=== 4. Les sauts de Doc ===
+Saut refusé : la Cabine ne dépasse pas 100 ans de saut (126 demandés)
+Doc saute en 1985 (Cabine) : 41 chronitons, reste 159
+Doc saute en 1955 (Portail) : 60 chronitons, reste 99
+Saut refusé : Doc est déjà passé en 1985, il risque de se croiser
+
+=== 5. Carnets de voyage ===
+Marty : 2026 → 1955 → 2026, 40 chronitons
+Doc : 2026 → 1985 → 1955, 99 chronitons

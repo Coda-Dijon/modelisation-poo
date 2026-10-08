@@ -1,0 +1,5 @@
+.idea/
+target/
+*.received.txt
+.DS_Store
+.approval_tests_temp/
