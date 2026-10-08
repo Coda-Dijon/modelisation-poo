@@ -1,0 +1,43 @@
+.gitignore
+  s_27cc06d188d854::t_0557ab9fbc8973 1-5
+01-chronotours/README.md
+  s_27cc06d188d854::t_122d6e7156353c 1-90
+01-chronotours/java/pom.xml
+  s_27cc06d188d854::t_cde7bb4dc62ed9 1-60
+01-chronotours/java/src/main/java/chrono/ConsoleLogger.java
+  s_27cc06d188d854::t_e70393faca90e5 1-55
+01-chronotours/java/src/main/java/chrono/Main.java
+  s_27cc06d188d854::t_6deaf804b66af1 1-13
+01-chronotours/java/src/test/java/chrono/AcceptanceTest.java
+  s_27cc06d188d854::t_791bd10a26ecdc 1-14
+01-chronotours/java/src/test/java/chrono/AcceptanceTest.scenario_de_demonstration.approved.txt
+  s_27cc06d188d854::t_bce7293c40cba2 1-25
+02-cinecoda/README.md
+  s_27cc06d188d854::t_ab76d8f61dc9df 1-175
+02-cinecoda/java/pom.xml
+  s_27cc06d188d854::t_2ffca1c0e85258 1-60
+02-cinecoda/java/src/main/java/cine/ConsoleLogger.java
+  s_27cc06d188d854::t_0330eb9a1a64ff 1-55
+02-cinecoda/java/src/main/java/cine/Main.java
+  s_27cc06d188d854::t_c8ef00272764cb 1-13
+02-cinecoda/java/src/test/java/cine/AcceptanceTest.scenario_de_demonstration.approved.txt
+  s_27cc06d188d854::t_c6def4d01c1a39 1-54
+README.md
+  s_27cc06d188d854::t_4be7a985e6ccba 1-36
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "359d065cd969286b1a3d33468f2d80434dff9ba0",
+  "prompts": {},
+  "sessions": {
+    "s_27cc06d188d854": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "774223cf-d755-4130-bc5c-be0d02cca474",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Yoan Thirion <yoan.thirion@gmail.com>"
+    }
+  }
+}
