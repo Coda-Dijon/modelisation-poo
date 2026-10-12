@@ -1,0 +1,29 @@
+02-cinecoda/BAREME.md
+  s_4feb71bcdb431e::t_b88bca7d282719 3,11,19,32-33,39,45-50,54,58-62,68-69,75,81-82,88,94
+  s_4feb71bcdb431e::t_90cc1def3c0297 5,7-10,12,17-18,20,22-24,27-28,35-36,41,52,71-74,77,84,95
+  s_4feb71bcdb431e::t_3ab133fdb4ec7a 1-2,4,6,13-16,21,25-26,29-31,34,37-38,40,42-44,51,53,55-57,63-67,70,76,78-80,83,85-87,89-93,96-99
+02-cinecoda/README.md
+  s_4feb71bcdb431e::t_277239f4eacd11 120-121,125-129
+  s_4feb71bcdb431e::t_15ab0beedab222 130
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "5da9ecf7168655222bee96f339c0c3f6bd3b1b42",
+  "prompts": {},
+  "humans": {
+    "h_0a88d9aba8622a": {
+      "author": "Yoan Thirion <yoan.thirion@gmail.com>"
+    }
+  },
+  "sessions": {
+    "s_4feb71bcdb431e": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "c9986464-375d-44e0-bbb8-c2f3aaeaa0cd",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Yoan Thirion <yoan.thirion@gmail.com>"
+    }
+  }
+}
