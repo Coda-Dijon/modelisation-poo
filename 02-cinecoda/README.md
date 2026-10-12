@@ -117,13 +117,16 @@ Chaque comportement métier de la section 2.6 doit être porté par une **métho
 
 ### 3.2 Livrables
 
-1. **Un diagramme de classes UML** (draw.io, PlantUML, Mermaid ou papier photographié) avec :
-   - les classes, classes abstraites, interfaces et énumérations, avec la notation UML adaptée ;
-   - les attributs avec leur visibilité et les méthodes principales, dont celles qui réalisent les comportements B1 à B11 ;
-   - les relations avec la bonne notation (héritage, réalisation d'interface, composition, association) et leurs **multiplicités**.
-2. **Un diagramme d'états** de la salle, avec ce qui déclenche chaque transition.
+1. **Un fichier `GLOSSAIRE.md`** qui reprend le vocabulaire métier identifié (entités, comportements, règles, états...) avec une définition courte de chaque terme, dans vos mots.
+2. **Un diagramme de classes** (papier photographié, draw.io, Mermaid...) : un schéma lisible suffit, la notation UML stricte n'est pas exigée. On doit y voir les classes, leurs liens et les méthodes clés.
 3. **Le code Java** du modèle.
 4. **Un programme `Main`** qui rejoue le scénario ci-dessous et affiche ce qui se passe, y compris les refus.
+
+> **L'usage de l'IA n'est pas autorisé** (ChatGPT, Copilot, Claude, assistants intégrés à l'IDE, etc.). Un usage avéré entraîne la note de 0/20.
+>
+> **Faites des micro-commits** : un commit à chaque petit pas (une notion du glossaire, une classe, une règle, une étape du scénario), avec un message explicite. Votre historique git doit permettre de suivre l'évolution de votre réflexion. Il est évalué.
+
+Le barème détaillé est dans [BAREME.md](BAREME.md).
 
 Un point d'étape est prévu après **45 minutes** : vous présenterez votre diagramme de classes à un autre binôme avant de commencer à coder.
 
