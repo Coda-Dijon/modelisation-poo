@@ -1,0 +1,28 @@
+01-chronotours/correction/README.md
+  h_0a88d9aba8622a 1-164
+01-chronotours/java/src/main/java/chrono/Cabin.java
+  h_0a88d9aba8622a 1-21
+01-chronotours/java/src/main/java/chrono/DeLorean.java
+  h_0a88d9aba8622a 1-14
+01-chronotours/java/src/main/java/chrono/JumpRefused.java
+  h_0a88d9aba8622a 1-7
+01-chronotours/java/src/main/java/chrono/Main.java
+  h_0a88d9aba8622a 3,5,13-62
+01-chronotours/java/src/main/java/chrono/Portal.java
+  h_0a88d9aba8622a 1-14
+01-chronotours/java/src/main/java/chrono/TimeMachine.java
+  h_0a88d9aba8622a 1-19
+01-chronotours/java/src/main/java/chrono/TimeTraveller.java
+  h_0a88d9aba8622a 1-74
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "902722854d4bf8a3f827f0f09d04d4cdbfb47f52",
+  "prompts": {},
+  "humans": {
+    "h_0a88d9aba8622a": {
+      "author": "Yoan Thirion <yoan.thirion@gmail.com>"
+    }
+  }
+}
