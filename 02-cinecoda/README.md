@@ -128,7 +128,7 @@ Chaque comportement métier de la section 2.6 doit être porté par une **métho
 
 Le barème détaillé est dans [BAREME.md](BAREME.md).
 
-Un point d'étape est prévu après **45 minutes** : vous présenterez votre diagramme de classes à un autre binôme avant de commencer à coder.
+Un point d'étape est prévu après **45 minutes** : vous présenterez votre diagramme de classes à un autre étudiant avant de commencer à coder.
 
 ### 3.3 Scénario de démonstration (à rejouer dans `Main`)
 

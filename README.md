@@ -1,6 +1,6 @@
 # Ateliers de modélisation objet (POO)
 
-Deux exercices en Java, à faire dans l'ordre, en binôme.
+Deux exercices en Java, à faire dans l'ordre, en individuel.
 
 | # | Exercice | Durée | Ce qu'on travaille |
 | --- | --- | --- | --- |

@@ -2,7 +2,7 @@
 
 > **Total :** 20 points
 >
-> **Évaluation :** en binôme, sur les livrables (vocabulaire métier, diagramme, code, historique git) et un court échange oral de justification.
+> **Évaluation :** individuelle, sur les livrables : vocabulaire métier, diagramme, code et historique git.
 
 ## Règles du jeu
 
@@ -19,9 +19,8 @@
 | 3 | Conception objet (attendus de la section 3.1) | 6 |
 | 4 | Règles métier et comportements B1 à B11 | 5 |
 | 5 | Démonstration : `Main` et test d'acceptance | 2 |
-| 6 | Qualité du code et contraintes techniques | 1 |
+| 6 | Qualité du code et contraintes techniques | 2 |
 | 7 | Historique git en micro-commits | 2 |
-| 8 | Justification orale des choix | 1 |
 | | **Total** | **20** |
 | | Malus | voir plus bas |
 
@@ -68,11 +67,12 @@ Chaque règle violée lève une **exception** avec un motif clair, et un refus n
 | `Main` rejoue les 9 étapes du scénario en s'appuyant sur le modèle | 1 |
 | `mvn test` est vert, sans modification du fichier `.approved.txt` ni de `ConsoleLogger` | 1 |
 
-## 6. Qualité du code et contraintes techniques (1 pt)
+## 6. Qualité du code et contraintes techniques (2 pts)
 
 | Élément évalué | Points |
 | --- | --- |
-| Contraintes de la section 3.4 respectées, nommage issu du vocabulaire métier | 1 |
+| Contraintes de la section 3.4 respectées | 1 |
+| Code lisible, nommage issu du vocabulaire métier | 1 |
 
 ## 7. Historique git en micro-commits (2 pts)
 
@@ -80,12 +80,6 @@ Chaque règle violée lève une **exception** avec un motif clair, et un refus n
 | --- | --- |
 | Commits nombreux et petits, répartis sur toute la séance | 1 |
 | Messages explicites qui permettent de suivre la démarche | 1 |
-
-## 8. Justification orale (1 pt)
-
-| Élément évalué | Points |
-| --- | --- |
-| Le binôme sait expliquer et défendre ses choix de conception | 1 |
 
 ## Malus
 
