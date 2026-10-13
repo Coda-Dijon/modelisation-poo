@@ -1,4 +1,4 @@
-package chrono;
+package chrono.domain;
 
 public class Portal extends TimeMachine {
     private static final int COST_PER_YEAR = 2;

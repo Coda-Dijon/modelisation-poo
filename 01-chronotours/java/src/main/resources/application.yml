@@ -1,0 +1,19 @@
+spring:
+  application:
+    name: chronotours
+  # H2 en mémoire par défaut. Pour une vraie base, il suffit de remplacer ce bloc
+  # (et d'ajouter le driver JDBC) : l'adaptateur JPA reste inchangé.
+  datasource:
+    url: jdbc:h2:mem:chronotours;DB_CLOSE_DELAY=-1
+    username: sa
+    password:
+  jpa:
+    hibernate:
+      ddl-auto: create-drop
+    open-in-view: false
+  h2:
+    console:
+      enabled: true
+  mvc:
+    problemdetails:
+      enabled: true

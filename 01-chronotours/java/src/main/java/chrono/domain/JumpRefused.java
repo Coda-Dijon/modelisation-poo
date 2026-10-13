@@ -1,4 +1,4 @@
-package chrono;
+package chrono.domain;
 
 public class JumpRefused extends RuntimeException {
     public JumpRefused(String reason) {

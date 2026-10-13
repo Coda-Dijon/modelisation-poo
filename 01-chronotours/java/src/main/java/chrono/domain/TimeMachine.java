@@ -1,4 +1,4 @@
-package chrono;
+package chrono.domain;
 
 public abstract class TimeMachine {
     private final String name;
@@ -15,5 +15,6 @@ public abstract class TimeMachine {
 
     // By default, a machine can travel any distance
     public void checkRange(int years) {
+
     }
 }

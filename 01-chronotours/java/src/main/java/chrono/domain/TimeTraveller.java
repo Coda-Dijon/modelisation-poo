@@ -1,4 +1,4 @@
-package chrono;
+package chrono.domain;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -7,17 +7,38 @@ public class TimeTraveller {
     public static final int AGENCY_YEAR = 2026;
     public static final int INVENTION_YEAR = 1885;
 
+    private final TravellerId id;
     private final String name;
     private int chronitons;
-    private final List<Integer> journey = new ArrayList<>();
+    private final List<Integer> journey;
 
-    public TimeTraveller(String name, int chronitons) {
+    public TimeTraveller(TravellerId id, String name, int chronitons) {
+        this(id, name, chronitons, List.of(AGENCY_YEAR));
+    }
+
+    private TimeTraveller(TravellerId id, String name, int chronitons, List<Integer> journey) {
         if (chronitons < 0) {
             throw new IllegalArgumentException("la réserve de chronitons ne peut pas être négative");
         }
+        if (journey.isEmpty()) {
+            throw new IllegalArgumentException("le carnet de voyage commence toujours à l'agence");
+        }
+        this.id = id;
         this.name = name;
         this.chronitons = chronitons;
-        journey.add(AGENCY_YEAR);
+        this.journey = new ArrayList<>(journey);
+    }
+
+    public static TimeTraveller restore(TimeTravellerSnapshot snapshot) {
+        return new TimeTraveller(snapshot.id(), snapshot.name(), snapshot.chronitons(), snapshot.journey());
+    }
+
+    public TimeTravellerSnapshot snapshot() {
+        return new TimeTravellerSnapshot(id, name, chronitons, journey());
+    }
+
+    public TravellerId id() {
+        return id;
     }
 
     public String name() {

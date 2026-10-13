@@ -1,4 +1,4 @@
-package chrono;
+package chrono.domain;
 
 public class DeLorean extends TimeMachine {
     private static final int FIXED_COST = 30;

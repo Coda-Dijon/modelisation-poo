@@ -1,4 +1,4 @@
-package chrono;
+package chrono.domain;
 
 public class Cabin extends TimeMachine {
     private static final int MAX_RANGE = 100;
