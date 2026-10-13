@@ -1,0 +1,28 @@
+02-cinecoda/README.md
+  s_4feb71bcdb431e::t_68aa628dbe71b5 131
+README.md
+  s_4feb71bcdb431e::t_68aa628dbe71b5 3
+02-cinecoda/BAREME.md
+  s_4feb71bcdb431e::t_6c08d3601741db 5,22,70,74-75
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "1768784a00c926c6dece3a328627026c7d152b5c",
+  "prompts": {},
+  "humans": {
+    "h_0a88d9aba8622a": {
+      "author": "Yoan Thirion <yoan.thirion@gmail.com>"
+    }
+  },
+  "sessions": {
+    "s_4feb71bcdb431e": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "c9986464-375d-44e0-bbb8-c2f3aaeaa0cd",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Yoan Thirion <yoan.thirion@gmail.com>"
+    }
+  }
+}
