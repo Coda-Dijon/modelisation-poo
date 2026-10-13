@@ -1,0 +1,110 @@
+01-chronotours/java/src/main/java/chrono/ChronoToursApplication.java
+  s_297f34f8af5bfe::t_9b39e8011a9e99 3-4,6-7,9
+01-chronotours/java/src/main/java/chrono/application/TravellerNotFound.java
+  s_297f34f8af5bfe::t_40e400871d2272 1-9
+01-chronotours/java/src/main/java/chrono/application/command/JumpInTimeCommand.java
+  s_297f34f8af5bfe::t_0caf994f1ad581 1-7
+01-chronotours/java/src/main/java/chrono/application/command/QuoteJumpQuery.java
+  s_297f34f8af5bfe::t_9e9163a73af2e7 1-7
+01-chronotours/java/src/main/java/chrono/application/command/RegisterTravellerCommand.java
+  s_297f34f8af5bfe::t_e66e6abfceb487 1-4
+01-chronotours/java/src/main/java/chrono/application/dto/QuoteDto.java
+  s_297f34f8af5bfe::t_ff25310ba53756 1-4
+01-chronotours/java/src/main/java/chrono/application/dto/TimeMachineDto.java
+  s_297f34f8af5bfe::t_8e4368bcee9f35 1-9
+01-chronotours/java/src/main/java/chrono/application/dto/TravellerDto.java
+  s_297f34f8af5bfe::t_a30a5675d1ee69 1-18
+01-chronotours/java/src/main/java/chrono/application/port/TravellerRepository.java
+  s_297f34f8af5bfe::t_874f87578d4802 1-24
+01-chronotours/java/src/main/java/chrono/application/usecase/GetTraveller.java
+  s_297f34f8af5bfe::t_8999c70e050eb3 1-20
+01-chronotours/java/src/main/java/chrono/application/usecase/JumpInTime.java
+  s_297f34f8af5bfe::t_bee7de83536b4e 1-22
+01-chronotours/java/src/main/java/chrono/application/usecase/ListTimeMachines.java
+  s_297f34f8af5bfe::t_e8e999c36ebf9e 1-18
+01-chronotours/java/src/main/java/chrono/application/usecase/ListTravellers.java
+  s_297f34f8af5bfe::t_285f930dffac26 1-23
+01-chronotours/java/src/main/java/chrono/application/usecase/QuoteJump.java
+  s_297f34f8af5bfe::t_58b15003a47a98 1-22
+01-chronotours/java/src/main/java/chrono/application/usecase/RegisterTraveller.java
+  s_297f34f8af5bfe::t_5bcabab1e76aa8 1-23
+01-chronotours/java/src/main/java/chrono/domain/Cabin.java
+  s_297f34f8af5bfe::t_c0508485e4aba3 1
+01-chronotours/java/src/main/java/chrono/domain/DeLorean.java
+  s_297f34f8af5bfe::t_b1cace608ff235 1
+01-chronotours/java/src/main/java/chrono/domain/JumpRefused.java
+  s_297f34f8af5bfe::t_3d2ec4e3178777 1
+01-chronotours/java/src/main/java/chrono/domain/Portal.java
+  s_297f34f8af5bfe::t_e8c129bb4bc221 1
+01-chronotours/java/src/main/java/chrono/domain/TimeMachineType.java
+  s_297f34f8af5bfe::t_adbae138004ea3 1-19
+01-chronotours/java/src/main/java/chrono/domain/TimeTraveller.java
+  s_297f34f8af5bfe::t_f3ebd42c838b22 1,10,13,15-19,23-26,29-41
+01-chronotours/java/src/main/java/chrono/domain/TimeTravellerSnapshot.java
+  s_297f34f8af5bfe::t_f272c0d345d5ab 1-10
+01-chronotours/java/src/main/java/chrono/domain/TravellerId.java
+  s_297f34f8af5bfe::t_07456c3934075f 1-19
+01-chronotours/java/src/main/java/chrono/infrastructure/config/UseCaseConfiguration.java
+  s_297f34f8af5bfe::t_bb68fca80870f6 1,3-11,14-15,17-21,24-26,29-31,34-46
+01-chronotours/java/src/main/java/chrono/infrastructure/persistence/JpaTravellerRepository.java
+  s_297f34f8af5bfe::t_ae7bce7c1d3073 1-42
+01-chronotours/java/src/main/java/chrono/infrastructure/persistence/SpringDataTravellerRepository.java
+  s_297f34f8af5bfe::t_dedabd2ff7e348 1-8
+01-chronotours/java/src/main/java/chrono/infrastructure/persistence/TravellerEntity.java
+  s_297f34f8af5bfe::t_3b6eb149746507 1-65
+01-chronotours/java/src/main/java/chrono/infrastructure/persistence/TravellerEntityMapper.java
+  s_297f34f8af5bfe::t_ea7a4fdbb4d480 1-37
+01-chronotours/java/src/main/java/chrono/infrastructure/web/ApiExceptionHandler.java
+  s_297f34f8af5bfe::t_3dbd568f0695ca 1-32
+01-chronotours/java/src/main/java/chrono/infrastructure/web/JumpController.java
+  s_297f34f8af5bfe::t_fac0a5c4afb24c 1-44
+01-chronotours/java/src/main/java/chrono/infrastructure/web/JumpRequest.java
+  s_297f34f8af5bfe::t_2e6296df11df77 1-11
+01-chronotours/java/src/main/java/chrono/infrastructure/web/RegisterTravellerRequest.java
+  s_297f34f8af5bfe::t_d9a362ab682c0a 1-9
+01-chronotours/java/src/main/java/chrono/infrastructure/web/TimeMachineController.java
+  s_297f34f8af5bfe::t_9bc72cb7897073 1-24
+01-chronotours/java/src/main/java/chrono/infrastructure/web/TravellerController.java
+  s_297f34f8af5bfe::t_f538ac5a1a794a 1-52
+01-chronotours/java/src/main/java/chrono/infrastructure/web/TravellerCreatedResponse.java
+  s_297f34f8af5bfe::t_0d853ea3a449da 1-6
+01-chronotours/java/src/main/resources/application.yml
+  s_297f34f8af5bfe::t_017bceb744c8e4 1-19
+01-chronotours/java/src/test/java/chrono/AcceptanceTest.java
+  s_297f34f8af5bfe::t_17cdb3e92de643 3-7,9-16,18-31,33-39,42-97,100-138
+01-chronotours/java/src/test/java/chrono/HexagonalArchitectureTest.java
+  s_297f34f8af5bfe::t_293099c6e86b8a 1-27
+01-chronotours/java/src/test/java/chrono/api/JumpApiTest.java
+  s_297f34f8af5bfe::t_720d8b8e0f8375 1-106
+01-chronotours/java/src/test/java/chrono/api/QuoteApiTest.java
+  s_297f34f8af5bfe::t_30fa5c6c0ad76f 1-73
+01-chronotours/java/src/test/java/chrono/api/TimeMachineApiTest.java
+  s_297f34f8af5bfe::t_3021a552b061c9 1-30
+01-chronotours/java/src/test/java/chrono/api/TravellerApiTest.java
+  s_297f34f8af5bfe::t_e179eaf411f6f7 1-75
+01-chronotours/java/src/test/java/chrono/api/TravellerFixture.java
+  s_297f34f8af5bfe::t_6a2df648d29e77 1-39
+01-chronotours/java/src/test/java/chrono/infrastructure/persistence/JpaTravellerRepositoryTest.java
+  s_297f34f8af5bfe::t_758dbf11a47e92 1-46
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "b71f06a91cfefdf3d8b12966d7bcfd7d8a4fa77c",
+  "prompts": {},
+  "humans": {
+    "h_0a88d9aba8622a": {
+      "author": "Yoan Thirion <yoan.thirion@gmail.com>"
+    }
+  },
+  "sessions": {
+    "s_297f34f8af5bfe": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "2987dd43-f6de-4b31-b4a6-de9f321a7218",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Yoan Thirion <yoan.thirion@gmail.com>"
+    }
+  }
+}
